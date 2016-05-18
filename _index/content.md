@@ -1,28 +1,16 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: http://imgur.com/uGALKt0
+name: "Christopher Rathjen"
+title: "Maker of things"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### Who's this now?
+_Christopher Rathjen lives in Chicago. He splits his time between helping other make open source software and making himself, and soemtimes others, laugh._
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
-
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
-
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
-
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
-
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
+#### Makings things
+* [Actor & Producer with Improvised Star Trek](http://www.theimprovisedstartrek.com)
+* [Producer with Hello From the Magic Tavern](https://hellofromthemagictavern.com/)
+* Actor in the City of Chicago
+ 
+#### Making things Work
+* [Supportocat at GitHub](https://github.com/rathjenc)
