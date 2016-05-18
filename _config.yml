@@ -1,12 +1,12 @@
 # Site settings
-title: Adrian's Profile
-email: hello@wheelhouse.io
+title: Christopher Rathjen's Profile
+email: corbomite@theimprovisedstartrek.com
 description: > # this means to ignore newlines until "baseurl:"
-  Learn to use GitHub pages with Wheelhouse.io and Patchwork!
-baseurl: "/project-gh-pages"
-url: "http://wheehouseio.github.io"
-twitter_username: WheelhouseIO
-github_username:  wheelhouseio
+  Welcome to me.
+baseurl: "/"
+url: "http://rathjenc.github.io"
+twitter_username: classicrathjen
+github_username:  rathjenc
 permalink: /blog/:year/:title/
 
 
