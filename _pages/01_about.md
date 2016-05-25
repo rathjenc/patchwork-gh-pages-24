@@ -10,3 +10,4 @@ He has brought Chicago comedy history to life with A Pocket Guide to Hell produc
 
 Besides creating award-winning short films with Very Clever Media, which he is an founder and co-owner of, Chris produces and appears on the Improvised Star Trek Podcast and is a regular editor and occasional potato on Hello From the Magic Tavern.
 
+When not making new jokes, Chris proudly assists in the creation of new software as a Supportocat for GitHub.com.
