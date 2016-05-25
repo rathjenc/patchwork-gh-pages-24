@@ -2,7 +2,6 @@
 title: Christopher Rathjen's Profile
 email: chris.rathjen@GitHub.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to me.
 baseurl: "http://rathjenc.github.io/"
 url: "http://rathjenc.github.io/"
 twitter_username: classicrathjen
